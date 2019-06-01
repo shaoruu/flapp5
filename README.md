@@ -1,10 +1,9 @@
-p5 Flappy Bird
-===
+# flapp5
 
-* Run server:
+- Run server:
+
 ```bash
 bash run.sh
 ```
 
-* Visit `localhost` to play.
-# flapp5
+- Visit `localhost` to play.
